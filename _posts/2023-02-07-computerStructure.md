@@ -1,11 +1,11 @@
 ---
-layout: single
-title: "컴퓨터 구조를 꼭 알아야 하나요?"
+layout : single
+title : "컴퓨터 구조를 꼭 알아야 하나요?"
 ---
 
 # **컴퓨터 구조**
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/116064230/217229788-fc151c2c-e22b-459e-985b-dea2b7dd6963.png)
 
 
 
